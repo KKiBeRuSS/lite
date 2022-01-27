@@ -1,0 +1,56 @@
+[2022-01-27 10:59:48] current working directory : [C:\Program Files (x86)\PUBGLite\]
+[2022-01-27 10:59:49] [1][0][LauncherModule2.dll_64][22]
+[2022-01-27 10:59:52] Предоставление значения для "System.Windows.Baml2006.TypeConverterMarkupExtension" вызвало исключение.
+[2022-01-27 11:00:31] current working directory : [C:\Program Files (x86)\PUBGLite\]
+[2022-01-27 11:00:32] [3][0][NULL][0]
+[2022-01-27 11:00:34] current working directory : [C:\Program Files (x86)\PUBGLite\]
+[2022-01-27 11:00:34] [1][0][LauncherModule2.dll_64][22]
+[2022-01-27 11:00:35] API Server listening on port 56600
+[2022-01-27 11:00:35] LOADING
+[2022-01-27 11:00:36] LOADING... COMPLETE
+[2022-01-27 11:01:30] ApiServerService - exception raised. message : Ссылка на строку не ссылается на экземпляр String.
+Имя параметра: s
+ stacktrace :
+   в System.Text.Encoding.GetBytes(String s)
+   в LauncherModel.SessionData.get_EncodedSessionId()
+   в LauncherApiServer.PUBGClientService.<>c__DisplayClass5_0.<GetSessionInfo>b__0()
+[2022-01-27 11:01:30] http request process failed. System.Net.HttpListenerRequest, /api/session
+[2022-01-27 11:01:35] ApiServerService - exception raised. message : Ссылка на строку не ссылается на экземпляр String.
+Имя параметра: s
+ stacktrace :
+   в System.Text.Encoding.GetBytes(String s)
+   в LauncherModel.SessionData.get_EncodedSessionId()
+   в LauncherApiServer.PUBGClientService.<>c__DisplayClass5_0.<GetSessionInfo>b__0()
+[2022-01-27 11:01:35] http request process failed. System.Net.HttpListenerRequest, /api/session
+[2022-01-27 11:01:36] ApiServerService - exception raised. message : Ссылка на строку не ссылается на экземпляр String.
+Имя параметра: s
+ stacktrace :
+   в System.Text.Encoding.GetBytes(String s)
+   в LauncherModel.SessionData.get_EncodedSessionId()
+   в LauncherApiServer.PUBGClientService.<>c__DisplayClass5_0.<GetSessionInfo>b__0()
+[2022-01-27 11:01:36] http request process failed. System.Net.HttpListenerRequest, /api/session
+[2022-01-27 11:01:38] ApiServerService - exception raised. message : Ссылка на строку не ссылается на экземпляр String.
+Имя параметра: s
+ stacktrace :
+   в System.Text.Encoding.GetBytes(String s)
+   в LauncherModel.SessionData.get_EncodedSessionId()
+   в LauncherApiServer.PUBGClientService.<>c__DisplayClass5_0.<GetSessionInfo>b__0()
+[2022-01-27 11:01:38] http request process failed. System.Net.HttpListenerRequest, /api/session
+[2022-01-27 11:01:39] ApiServerService - exception raised. message : Ссылка на строку не ссылается на экземпляр String.
+Имя параметра: s
+ stacktrace :
+   в System.Text.Encoding.GetBytes(String s)
+   в LauncherModel.SessionData.get_EncodedSessionId()
+   в LauncherApiServer.PUBGClientService.<>c__DisplayClass5_0.<GetSessionInfo>b__0()
+[2022-01-27 11:01:39] http request process failed. System.Net.HttpListenerRequest, /api/session
+[2022-01-27 11:01:47] ApiServerService - exception raised. message : Ссылка на строку не ссылается на экземпляр String.
+Имя параметра: s
+ stacktrace :
+   в System.Text.Encoding.GetBytes(String s)
+   в LauncherModel.SessionData.get_EncodedSessionId()
+   в LauncherApiServer.PUBGClientService.<>c__DisplayClass5_0.<GetSessionInfo>b__0()
+[2022-01-27 11:01:47] http request process failed. System.Net.HttpListenerRequest, /api/session
+[2022-01-27 11:02:10] exiting launcher with code : 18
+[2022-01-27 11:02:10] Logout started.
+[2022-01-27 11:02:10] Not logged in, skipping logout
+[2022-01-27 11:02:11] [2][0][NULL][0]
